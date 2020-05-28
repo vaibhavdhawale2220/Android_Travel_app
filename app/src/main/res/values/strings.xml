@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Travel buddy</string>
+    <string-array name="country_arrays">
+        <item>Choose Country</item>
+        <item>Bangladesh</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+    <string name="title_activity_drawer">@string/app_name</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_utility">Utility</string>
+    <string name="menu_signout">Signout</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="view_forecast">View more details</string>
+    <string name="home_second">Home Second</string>
+    <string name="text_hangout">Hangout</string>
+    <string-array name="shopping_item">
+        <item>Onion</item>
+        <item>Sausage</item>
+        <item>Milk</item>
+        <item>Garlic</item>
+        <item>Beef</item>
+        <item>Veggies</item>
+        <item>Olive</item>
+        <item>Cheese</item>
+        <item>Tuna</item>
+        <item>Mushrooms</item>
+    </string-array>
+    <string name="make_an_order">Make an order</string>
+    <string name="dialog_title">Items available in a shop</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+    <string name="text_checklist">Checklist</string>
+    <string name="ticked_items_count">%1$d Ticked items</string>
+</resources>
